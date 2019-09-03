@@ -1,7 +1,7 @@
 {
-  "name": "react-native-image-pan-zoom",
-  "version": "2.1.11",
-  "description": "react native image pan zoom",
+  "name": "react-native-web-image-pan-zoom",
+  "version": "2.1.12",
+  "description": "react native web image pan zoom",
   "main": "built/index.js",
   "types": "built/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ascoders/react-native-image-zoom.git"
+    "url": "https://github.com/davidkwan95/react-native-web-image-zoom.git"
   },
   "keywords": [
     "image-zoom"

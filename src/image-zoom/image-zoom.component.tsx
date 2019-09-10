@@ -8,7 +8,7 @@ import {
   PlatformOSType,
   StyleSheet,
   View
-} from 'react-native';
+} from 'react-native-web';
 import styles from './image-zoom.style';
 import { ICenterOn, Props, State } from './image-zoom.type';
 

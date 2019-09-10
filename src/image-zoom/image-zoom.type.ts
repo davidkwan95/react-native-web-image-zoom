@@ -1,4 +1,4 @@
-import { ViewStyle } from 'react-native';
+import { ViewStyle } from 'react-native-web';
 
 export interface ICenterOn {
   x: number;
@@ -16,10 +16,10 @@ interface IOnMove {
 }
 
 export interface IOnClick {
-  locationX: number,
-  locationY: number,
-  pageX: number,
-  pageY: number
+  locationX: number;
+  locationY: number;
+  pageX: number;
+  pageY: number;
 }
 
 export class Props {
